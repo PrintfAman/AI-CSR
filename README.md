@@ -1,7 +1,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Amitoshdeep/F1-CSR.git
+   git clone https://github.com/PrintfAman/F1-CSR.git
    ```
 
 2. Navigate to the project directory:
@@ -51,7 +51,7 @@
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Amitoshdeep/F1-CSR/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/PrintfAman/AI-CSR/issues).
 
 ## 📝 License
 
@@ -60,7 +60,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Amanpreet singh khanna**
-- GitHub: [@PrintfAman](https://github.com/PrintfAman
+- GitHub: [@PrintfAman](https://github.com/PrintfAman)
 
 ## 🙏 Acknowledgments
 
