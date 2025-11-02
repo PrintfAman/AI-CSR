@@ -1,12 +1,12 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/PrintfAman/F1-CSR.git
+   git clone https://github.com/PrintfAman/AI-CSR.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd F1-CSR
+   cd AI-CSR
    ```
 
 3. Install dependencies:
