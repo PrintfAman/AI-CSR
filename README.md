@@ -38,6 +38,7 @@
 
 - Dynamic road lighting effects
 - Responsive car light trails
+- Ai chatbot gives recommendations about f1
 - Weather-based visual adaptations
 - Smooth transitions and animations
 - Racing-inspired color scheme (predominantly red and black)
